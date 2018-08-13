@@ -1,0 +1,7 @@
+List Comprehension
+> collapse for loops for building lists into a single line
+> Components
+    > Iterable
+    > Iterator variable (represent members of iterable)
+    > Output expression
+    
