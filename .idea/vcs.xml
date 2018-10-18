@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Introduction to Data Visualization with Python" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bokeh-notebooks" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/datacamp_facebook_live_nlp" vcs="Git" />
+  </component>
+</project>
